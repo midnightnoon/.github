@@ -1,3 +1,5 @@
+![Midnight Noon]((https://github.com/midnightnoon/.github/blob/main/images/gh_banner.png)
+
 ## Start upgrading.
 
 Visit the _Midnight Noon_ **[website](https://midnightnoon.dev)** or **[YouTube](https://www.youtube.com/channel/UC3XCykywIP6p6hYaNyAn_uA)** channel to explore the entire series. Browse the additional repositories below to preview upcoming episodes and contribute to the ongoing development of larger projects.
