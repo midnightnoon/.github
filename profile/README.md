@@ -1,4 +1,4 @@
-![Midnight Noon]((https://github.com/midnightnoon/.github/blob/main/images/gh_banner.png)
+![Midnight Noon](https://github.com/midnightnoon/.github/blob/main/images/gh_banner.png)
 
 ## Start upgrading.
 
