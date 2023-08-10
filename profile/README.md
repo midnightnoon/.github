@@ -6,7 +6,5 @@ Visit the _Midnight Noon_ **[website](https://midnightnoon.dev)** or **[YouTube]
 
 ## Start contributing.
 
-(Once we reach 5,000 YouTube subscribers!)
-
 Become a contributing __sponsor__ here on _GitHub_ or a __member__ on _YouTube_ to contribute to the future of the series. Members may also opt-in to gain access to __exclusive benefits__.
 
